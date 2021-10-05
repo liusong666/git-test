@@ -10,6 +10,7 @@ public class FirstClass {
         System.out.println("nihao123 ");
     }
     public  void test() {
-        System.out.println("nihaocccccc ");
+
+        System.out.println("nihaodddddd ");
     }
 }
