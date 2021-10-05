@@ -11,6 +11,6 @@ public class FirstClass {
     }
     public  void test() {
 
-        System.out.println("nihaodddddd ");
+        System.out.println("nihaoccccccc ");
     }
 }
